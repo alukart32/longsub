@@ -13,5 +13,5 @@ make docker-up
 To find the largest substring, you need to execute the CLI application:
 
 ```shell
-longsub your_string http://localhost:8080/api/substring
+./longsub your_string http://localhost:8080/api/substring
 ```
